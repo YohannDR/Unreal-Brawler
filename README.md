@@ -46,10 +46,7 @@ Visual Studio 2022
 
 ## Authors
 
-- [@Cyril](https://gitlabstudents.isartintra.com/c.khalil)
-- [@Maxime](https://gitlabstudents.isartintra.com/m.grimardhamel)
-- [@Yohann](https://gitlabstudents.isartintra.com/y.demaisonregne)
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- [@Cyril](https://github.com/LilahkC)
+- [@Maxime](https://github.com/bloodlantern)
+- [@Yohann](https://github.com/yohanndr)
 
